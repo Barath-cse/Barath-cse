@@ -1,108 +1,134 @@
 # Hi there, I'm Barath K 👋
 
-### Computer Science Engineering Student | Java Developer | Full Stack Learner | Problem Solver
+🎓 Computer Science Engineering Student | Java Developer | Full Stack Developer | Backend Enthusiast
+
+I am a Computer Science Engineering student passionate about building scalable software applications, backend systems, and AI-powered solutions.
+
+I enjoy developing full-stack applications using Java, Spring Boot, React.js, Node.js, and modern database technologies. Currently exploring System Design, AI-assisted development, and cloud-ready application development.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Pursuing B.E in Computer Science and Engineering at **V.S.B Engineering College, Karur**
+🎓 Pursuing B.E. Computer Science and Engineering at V.S.B Engineering College, Karur
 
-💻 Passionate about **Software Development, Java Backend Development, Full Stack Web Development, and Problem Solving**
+💻 Interested in:
+- Java Backend Development
+- Full Stack Web Development
+- Software Engineering
+- AI-powered Applications
+- System Design
 
-⚡ Strong interest in building scalable applications and solving real-world challenges using modern technologies
+🌱 Currently learning:
+- Spring Boot & REST APIs
+- React.js Advanced Concepts
+- Data Structures & Algorithms
+- Cloud Deployment
 
-🤖 Exploring AI-assisted development tools to improve productivity and innovation
-
-🌱 Currently learning and improving in **Java, Spring Boot, React.js, and System Design**
+🤖 Exploring AI tools like GitHub Copilot and Google Gemini to improve software development productivity.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-`Java` `Python` `C` `SQL`
+Java • Python • JavaScript • C • SQL
 
-### ⚙️ Frameworks & Technologies
-`React.js` `Node.js` `Spring Boot` `Docker`
+### ⚙️ Backend Technologies
+Java • Spring Boot • Node.js • Express.js • REST APIs
+
+### 🎨 Frontend Technologies
+HTML • CSS • JavaScript • React.js • Bootstrap
 
 ### 🗄️ Databases
-`MongoDB`
+MongoDB • MySQL • Firebase Firestore
 
-### 🔧 Developer Tools
-`VS Code` `Git` `GitHub` `Google Colab`
+### 🔧 Tools
+Git • GitHub • VS Code • Docker • Google Colab
 
-### 🤖 AI Tools
-`GitHub Copilot` `Google Gemini`
+### 🤖 AI & Emerging Technologies
+Generative AI • RAG Systems • AI-assisted Development • Blockchain
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔐 Blockchain-Based Secure File Integrity & Access Control System
+## 🔐 Blockchain-Based Secure File Integrity & Access Control System
 
 **Tech Stack:** React.js, Node.js, Solidity, Ethereum, AES-256
 
-✔ Developed a decentralized platform for secure file integrity verification
-
-✔ Implemented blockchain hashing for tamper detection
-
-✔ Designed encrypted storage with smart contract-based access control
-
----
-
-### 💊 PharmaGen – AI Powered Drug Discovery Platform
-
-**Tech Stack:** Java, Spring Boot, Docker, Maven
-
-✔ Built an AI-powered platform for molecule analysis and prediction
-
-✔ Implemented real-time descriptor generation and intelligent data processing
-
-✔ Developed a fully containerized backend and frontend architecture
+- Developed a blockchain-based secure file management platform.
+- Implemented cryptographic hashing for file integrity verification.
+- Used AES-256 encryption for secure file storage.
+- Integrated smart contracts for role-based access control.
+- Enabled tamper detection through Ethereum blockchain technology.
 
 ---
 
-## 🏆 Certifications
+## 📱 Smart Habit Tracker with AI Recommendations
+
+**Tech Stack:** Java, Android SDK, Firebase, MPAndroidChart
+
+- Developed an Android productivity application for habit management.
+- Implemented streak tracking and personalized recommendations.
+- Integrated Firebase Authentication, Firestore, and push notifications.
+- Created analytics dashboards using interactive charts.
+
+---
+
+## 🧠 MultiModal RAG Enterprise (MM-RAG-E)
+
+**Tech Stack:** React.js, Node.js, Gemini API, Vector Database
+
+- Built an enterprise multimodal Retrieval-Augmented Generation system.
+- Supports document, image, and audio-based knowledge retrieval.
+- Implemented vector search with semantic similarity matching.
+- Integrated AI-powered response generation with contextual retrieval.
+
+---
+
+## 🌾 FarmPortal – Digital Farm Management System
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+- Developed a full-stack agriculture management platform.
+- Implemented crop tracking, expense management, and reports.
+- Built secure authentication using JWT.
+- Created dashboard-based data visualization.
+
+---
+
+# 🏆 Certifications
 
 🏅 Java Programming – Infosys Springboard
 
-🏅 Database Programming with PL/SQL – Oracle Academy
+🏅 Database Programming with SQL – Oracle Academy
 
 🏅 Introduction to Cybersecurity – Cisco Networking Academy
 
 🏅 Cyber Security: Endpoint Defense – Infosys Springboard
 
-🏅 Web Development Internship – Let's GameTech, Coimbatore
 
 ---
 
-## 🎯 Areas of Interest
+# 🎯 Areas of Interest
 
-✨ Software Development
-
-✨ Java Backend Development
-
-✨ Full Stack Web Development
-
-✨ System Design & Optimization
-
-✨ Problem Solving & Algorithm Design
+✨ Software Development  
+✨ Java Backend Engineering  
+✨ Full Stack Development  
+✨ Artificial Intelligence  
+✨ System Design  
+✨ Problem Solving & Algorithms  
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 **Email:** barathash77@gmail.com
+📧 Email: barathash77@gmail.com
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/barath-k-564403377/
-
----
-
-## 🌟 Personal Motto
-
-### *"Code. Learn. Build. Improve. Repeat."*
+🔗 LinkedIn:
+linkedin.com/in/barath-k-564403377
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ "Code. Learn. Build. Improve. Repeat."
