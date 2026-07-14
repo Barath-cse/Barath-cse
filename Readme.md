@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Barath-cse&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status"/>
 
 </div>
@@ -19,10 +19,10 @@
   this file for the exact steps. Until set up, this stays commented out
   so it won't show as a broken link.
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Barath-cse/Barath-cse/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=discord&no-frame=true&row=1&column=6" alt="trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Barath-cse&theme=discord&no-frame=true&row=1&column=6" alt="trophies" width="100%"/>
 
 ---
 
@@ -155,15 +155,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Barath-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barath-cse&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-cse&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
-
-> 💡 Replace `YOUR-GITHUB-USERNAME` above with your exact GitHub username so the stats cards load correctly.
 
 ---
 
@@ -189,3 +187,16 @@
 </div>
 
 ---
+
+<details>
+<summary>⚙️ Setup notes (delete this section once done)</summary>
+
+1. ✅ Username already set to `Barath-cse` throughout this file.
+2. **GitHub stats / streak / trophy cards** work automatically once the username is correct — no extra setup.
+3. **Snake animation** needs a GitHub Action, not just a link:
+   - Create a repo named exactly the same as your username (this becomes your profile repo) and add this README there.
+   - In that repo, create `.github/workflows/snake.yml` with the [snake action](https://github.com/Platane/snk) — it generates an SVG on a schedule and commits it to an `output` branch.
+   - Once it runs once, uncomment the snake `<img>` tag above.
+4. **Profile views counter** (komarev.com) works immediately once the username is set — no action needed.
+
+</details>
