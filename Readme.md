@@ -1,114 +1,113 @@
-<!-- 
-  README INSTRUCTIONS:
-  For the Snake animation to work at the bottom, you need to set up a GitHub Action. 
-  (Search for "Platane/snk" on GitHub for a quick 2-minute setup guide to generate the SVG).
--->
+<h1 align="center">Hi there, I'm Barath K 👋</h1>
 
-<div align="center">
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Barath+K+👋;Full-Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+AI-Powered+Solutions" alt="Typing Greeting" />
+<h3 align="center">🎓 Computer Science Engineering Student | Java Developer | Full Stack Developer | Backend Enthusiast</h3>
 
-  <p align="center">
-    <strong>Computer Science Engineering Student | Java & Web Architect</strong><br>
-    <i>Crafting scalable backend systems and intelligent, cloud-ready applications.</i>
-  </p>
-  
-  <!-- Social Badges (Color-matched to dark theme) -->
-  <a href="mailto:barathash77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&border=30363D" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/barath-k-564403377">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&border=30363D" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+  I am a Computer Science Engineering student passionate about building scalable software applications, backend systems, and AI-powered solutions. I enjoy developing full-stack applications using Java, Spring Boot, React.js, Node.js, and modern database technologies. Currently exploring System Design, AI-assisted development, and cloud-ready application development.
+</p>
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=50&section=header" width="100%"/>
+---
 
-### 👨‍💻 The Developer Behind the Desk
+### 🚀 About Me
 
-- 🎓 **Pursuing:** B.E. Computer Science and Engineering @ V.S.B Engineering College.
-- 💡 **Engineering Philosophy:** Building secure, efficient, and AI-augmented applications that solve real problems.
-- 🤖 **AI Advocate:** Actively utilizing GitHub Copilot and Google Gemini to supercharge development workflows.
-- 🌱 **Currently Up-skilling:** Advanced React.js patterns, Spring Boot Microservices, and Cloud Deployment strategies.
+- 🎓 Pursuing B.E. Computer Science and Engineering at V.S.B Engineering College, Karur
+- 💻 **Interested in:** Java Backend Development, Full Stack Web Development, Software Engineering, AI-powered Applications, System Design
+- 🌱 **Currently learning:** Spring Boot & REST APIs, React.js Advanced Concepts, Data Structures & Algorithms, Cloud Deployment
+- 🤖 Exploring AI tools like GitHub Copilot and Google Gemini to improve software development productivity.
 
-<br>
+---
 
-### 🛠️ Hardware & Software Arsenal
+### 🛠️ Tech Stack
 
-<!-- Animated tech stack icons (grouped by category) -->
-<div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" alt="Languages" />
-  </a>
-  
-  <br><br>
-  
-  <p><strong>Backend, Frameworks & DBs</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,bootstrap,mongodb,mysql,firebase&theme=dark" alt="Frameworks and DBs" />
-  </a>
+**💻 Programming Languages:**
+<br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <br><br>
-  
-  <p><strong>Tools & Deployment</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" alt="Tools" />
-  </a>
-</div>
+<br/>
 
-<br>
+**⚙️ Backend Technologies:**
+<br/>
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge)
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=50&section=header" width="100%"/>
+<br/>
 
-### 📊 Telemetry & Stats
+**🎨 Frontend Technologies:**
+<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div align="center">
-  <!-- GitHub Stats and Streak Grid -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Barath-cse&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BD93F9" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barath-cse&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=BD93F9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-cse&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages" />
-</div>
+**🗄️ Databases:**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br>
+<br/>
 
-### 🔬 Currently Building & Researching
+**🔧 Tools:**
+<br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-1. **MultiModal RAG Enterprise (MM-RAG-E)**: Fine-tuning an enterprise vector-search system using Gemini API for document, image, and audio retrieval.
-2. **Blockchain-Based Access Control**: Expanding a secure file management platform using Ethereum, Solidity, and AES-256 encryption.
+<br/>
 
-<br>
+**🤖 AI & Emerging Technologies:**
+<br/>
+`Generative AI` • `RAG Systems` • `AI-assisted Development` • `Blockchain`
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=50&section=header" width="100%"/>
+---
 
-### 🐍 Contribution Activity 
+### 📌 Featured Projects
 
-<div align="center">
-  <!-- 
-    GitHub Snake Contribution Animation. 
-    You must set up the GitHub Action to generate this SVG in your repository.
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barath-cse/Barath-cse/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barath-cse/Barath-cse/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Barath-cse/Barath-cse/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🔐 Blockchain-Based Secure File Integrity & Access Control System** | Developed a blockchain-based secure file management platform. Implemented cryptographic hashing for file integrity verification and AES-256 encryption. Integrated smart contracts for role-based access control with Ethereum tamper detection. | *React.js, Node.js, Solidity, Ethereum, AES-256* |
+| **📱 Smart Habit Tracker with AI Recommendations** | Developed an Android productivity application for habit management with streak tracking and personalized recommendations. Integrated Firebase Auth/Firestore and created analytics dashboards using interactive charts. | *Java, Android SDK, Firebase, MPAndroidChart* |
+| **🧠 MultiModal RAG Enterprise (MM-RAG-E)** | Built an enterprise multimodal Retrieval-Augmented Generation system. Supports document, image, and audio-based knowledge retrieval. Implemented vector search with semantic similarity matching and AI-powered response generation. | *React.js, Node.js, Gemini API, Vector Database* |
+| **🌾 FarmPortal – Digital Farm Management System** | Developed a full-stack agriculture management platform with crop tracking, expense management, and reports. Built secure authentication using JWT and dashboard data visualization. | *React.js, Node.js, Express.js, MongoDB* |
 
-<br>
-<div align="center">
-  <code>echo "Code. Learn. Build. Improve. Repeat." > /dev/mind</code>
-</div>
+---
+
+### 🏆 Certifications
+
+- 🏅 **Java Programming** – Infosys Springboard
+- 🏅 **Database Programming with SQL** – Oracle Academy
+- 🏅 **Introduction to Cybersecurity** – Cisco Networking Academy
+- 🏅 **Cyber Security: Endpoint Defense** – Infosys Springboard
+
+---
+
+### 🎯 Areas of Interest
+
+✨ Software Development | ✨ Java Backend Engineering | ✨ Full Stack Development <br/>
+✨ Artificial Intelligence | ✨ System Design | ✨ Problem Solving & Algorithms
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:barathash77@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/barath-k-564403377" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
+<br/>
+
+<h3 align="center">⭐ "Code. Learn. Build. Improve. Repeat." ⭐</h3>
