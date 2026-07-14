@@ -1,136 +1,161 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=60&lines=%24+whoami" alt="whoami"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Barath%20K&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
 
-```
-██████╗  █████╗ ██████╗  █████╗ ████████╗██╗  ██╗    ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██║ ██╔╝
-██████╔╝███████║██████╔╝███████║   ██║   ███████║    █████╔╝
-██╔══██╗██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║    ██╔═██╗
-██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██║  ██╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Computer+Science+Engineering+Student;%3E+Java+Developer+%7C+Full+Stack+Developer;%3E+Backend+Enthusiast+%7C+AI+Explorer;%3E+status%3A+compiling+dreams+into+code..." alt="Typing SVG"/>
-
-![](https://komarev.com/ghpvc/?username=barath-k&color=00FF9C&style=flat-square&label=terminal+visits)
-
-</div>
-
-<br/>
-
-```bash
-barath@dev:~$ cat about.md
-```
-
-> 🎓 B.E. Computer Science and Engineering @ V.S.B Engineering College, Karur
-> 💻 I build backend systems, full-stack apps, and AI-powered tools
-> 🌱 Currently leveling up: Spring Boot · React.js · DSA · Cloud Deployment
-> 🤖 Experimenting with GitHub Copilot & Google Gemini in my dev workflow
-
-```bash
-barath@dev:~$ ls tech_stack/
-```
-
-<div align="center">
-
-| Layer | Stack |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript) ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql) |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk) ![Spring](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square&logo=springboot) ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) |
-| **Frontend** | ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql) ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github) ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker) ![Colab](https://img.shields.io/badge/-Colab-000000?style=flat-square&logo=googlecolab) |
-| **AI / Emerging** | ![GenAI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square&logo=openai) ![RAG](https://img.shields.io/badge/-RAG%20Systems-000000?style=flat-square&logo=databricks) ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat-square&logo=ethereum) |
-
-</div>
-
-```bash
-barath@dev:~$ ls projects/ --featured
-```
-
-<details open>
-<summary><b>🔐 blockchain-file-integrity/</b></summary>
-<br/>
-
-```yaml
-stack: React.js, Node.js, Solidity, Ethereum, AES-256
-desc: >
-  Secure file management platform with cryptographic hashing for
-  integrity verification, AES-256 encryption, smart-contract based
-  role access control, and Ethereum-powered tamper detection.
-```
-</details>
-
-<details>
-<summary><b>📱 smart-habit-tracker/</b></summary>
-<br/>
-
-```yaml
-stack: Java, Android SDK, Firebase, MPAndroidChart
-desc: >
-  Android productivity app with streak tracking, personalized
-  recommendations, Firebase Auth + Firestore, push notifications,
-  and interactive analytics dashboards.
-```
-</details>
-
-<details>
-<summary><b>🧠 mm-rag-enterprise/</b></summary>
-<br/>
-
-```yaml
-stack: React.js, Node.js, Gemini API, Vector Database
-desc: >
-  Enterprise multimodal RAG system supporting document, image, and
-  audio-based retrieval, semantic vector search, and contextual
-  AI-generated responses.
-```
-</details>
-
-<details>
-<summary><b>🌾 farmportal/</b></summary>
-<br/>
-
-```yaml
-stack: React.js, Node.js, Express.js, MongoDB
-desc: >
-  Full-stack agriculture management platform with crop tracking,
-  expense management, JWT auth, and dashboard visualizations.
-```
-</details>
-
-```bash
-barath@dev:~$ cat certifications.log
-```
-
-```
-[✔] Java Programming ................ Infosys Springboard
-[✔] Database Programming with SQL ... Oracle Academy
-[✔] Intro to Cybersecurity .......... Cisco Networking Academy
-[✔] Endpoint Defense ................ Infosys Springboard
-```
-
-```bash
-barath@dev:~$ ping recruiter --connect
-```
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-barathash77@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:barathash77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/barath--k-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/barath-k-564403377)
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=barath-k&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barath-k&theme=chartreuse-dark&hide_border=true&background=0D1117" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=550&lines=Java+Developer;Full+Stack+Developer;Backend+Enthusiast;AI+%26+System+Design+Explorer" alt="Typing SVG"/>
 
 <br/><br/>
 
-```bash
-barath@dev:~$ echo "Code. Learn. Build. Improve. Repeat."
-```
+<img src="https://img.shields.io/badge/📍-V.S.B%20Engineering%20College%2C%20Karur-f5f5f5?style=flat-square&labelColor=A78BFA&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/🎓-B.E.%20Computer%20Science%20%26%20Engineering-f5f5f5?style=flat-square&labelColor=A78BFA&color=1a1a1a"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&color=00FF9C&center=true&vCenter=true&width=500&lines=Process+exited+with+code+0" />
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="100%">
+
+> I'm a Computer Science Engineering student who enjoys turning ideas into
+> working software — from backend systems and full-stack apps to
+> AI-powered tools. I like clean architecture, learning by building, and
+> figuring out how things scale.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ── ⚡ Currently ──
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">🌱<br/><b>Learning</b><br/><sub>Spring Boot & REST APIs</sub></td>
+<td align="center" width="25%">🎨<br/><b>Practicing</b><br/><sub>React.js Advanced Concepts</sub></td>
+<td align="center" width="25%">🧩<br/><b>Sharpening</b><br/><sub>Data Structures & Algorithms</sub></td>
+<td align="center" width="25%">☁️<br/><b>Exploring</b><br/><sub>Cloud Deployment</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ── 🧠 Skills ──
+
+</div>
+
+<div align="center">
+
+**Backend**
+`Java`&nbsp;&nbsp;·&nbsp;&nbsp;`Spring Boot`&nbsp;&nbsp;·&nbsp;&nbsp;`Node.js`&nbsp;&nbsp;·&nbsp;&nbsp;`Express.js`&nbsp;&nbsp;·&nbsp;&nbsp;`REST APIs`
+
+█████████████████░░░  Java
+████████████████░░░░░  Spring Boot
+███████████████░░░░░░  Node.js / Express
+
+**Frontend**
+`HTML`&nbsp;&nbsp;·&nbsp;&nbsp;`CSS`&nbsp;&nbsp;·&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;·&nbsp;&nbsp;`React.js`&nbsp;&nbsp;·&nbsp;&nbsp;`Bootstrap`
+
+██████████████████░░░  JavaScript
+███████████████░░░░░░  React.js
+
+**Data & Cloud**
+`MySQL`&nbsp;&nbsp;·&nbsp;&nbsp;`MongoDB`&nbsp;&nbsp;·&nbsp;&nbsp;`Firebase`&nbsp;&nbsp;·&nbsp;&nbsp;`Docker`&nbsp;&nbsp;·&nbsp;&nbsp;`Git & GitHub`
+
+**AI & Emerging**
+`Generative AI`&nbsp;&nbsp;·&nbsp;&nbsp;`RAG Systems`&nbsp;&nbsp;·&nbsp;&nbsp;`AI-assisted Development`&nbsp;&nbsp;·&nbsp;&nbsp;`Blockchain`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ── 🗂️ Featured Work ──
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Blockchain Secure File Integrity**
+<sub>React.js · Node.js · Solidity · Ethereum · AES-256</sub>
+
+Secure file platform using cryptographic hashing, AES-256 encryption, smart-contract access control, and Ethereum-based tamper detection.
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Smart Habit Tracker**
+<sub>Java · Android SDK · Firebase · MPAndroidChart</sub>
+
+Android app for habit management with streak tracking, personalized tips, Firebase Auth/Firestore, and analytics dashboards.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 MultiModal RAG Enterprise**
+<sub>React.js · Node.js · Gemini API · Vector Database</sub>
+
+Enterprise RAG system retrieving across documents, images, and audio, with semantic vector search and contextual AI responses.
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 FarmPortal**
+<sub>React.js · Node.js · Express.js · MongoDB</sub>
+
+Full-stack farm management platform for crop tracking, expenses, JWT-secured auth, and visual reporting dashboards.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ── 🏅 Certifications ──
+
+`Java Programming` — Infosys Springboard&nbsp;&nbsp;|&nbsp;&nbsp;`SQL Database Programming` — Oracle Academy
+`Intro to Cybersecurity` — Cisco Networking Academy&nbsp;&nbsp;|&nbsp;&nbsp;`Endpoint Defense` — Infosys Springboard
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ── 📊 Snapshot ──
+
+<img src="https://github-readme-stats.vercel.app/api?username=barath-k&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-k&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=00000000" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ── ✉️ Let's Connect ──
+
+<a href="mailto:barathash77@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/barath-k-564403377"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Code. Learn. Build. Improve. Repeat."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
