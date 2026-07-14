@@ -189,16 +189,3 @@
 </div>
 
 ---
-
-<details>
-<summary>⚙️ Setup notes (delete this section once done)</summary>
-
-1. **Replace every `YOUR-GITHUB-USERNAME`** in this file with your real GitHub username (case-sensitive).
-2. **GitHub stats / streak / trophy cards** work automatically once the username is correct — no extra setup.
-3. **Snake animation** needs a GitHub Action, not just a link:
-   - Create a repo named exactly the same as your username (this becomes your profile repo) and add this README there.
-   - In that repo, create `.github/workflows/snake.yml` with the [snake action](https://github.com/Platane/snk) — it generates an SVG on a schedule and commits it to an `output` branch.
-   - Once it runs once, uncomment the snake `<img>` tag above.
-4. **Profile views counter** (komarev.com) works immediately once the username is set — no action needed.
-
-</details>
