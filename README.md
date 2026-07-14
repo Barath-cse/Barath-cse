@@ -4,7 +4,7 @@
 
 I am a Computer Science Engineering student passionate about building scalable software applications, backend systems, and AI-powered solutions.
 
-I enjoy developing full-stack applications using Java, Spring Boot, React.js, Node.js, and modern database technologies. Currently exploring System Design, AI-assisted development, and cloud-ready application development.
+I enjoy developing full-stack applications using Java, Spring Boot, React.js, Node.js, and modern database technologies. Currently exploring System Design, AI-assisted development, and cloud-ready application development .
 
 ---
 
